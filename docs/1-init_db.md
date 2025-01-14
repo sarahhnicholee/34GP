@@ -16,7 +16,7 @@
    - `title` is a string
 
    <details>
-   <summary>See solution</summary>
+   <summary>See solution</summary>1
 
    ```prisma
    model Book {
